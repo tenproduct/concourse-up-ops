@@ -2,7 +2,7 @@
   {
     "type": "replace",
     "path": "/releases/name=concourse/sha1?",
-    "value": "93fc11f5b444b3df210516632fbec26720b52b60"
+    "value": "3c935eeebfbe97f81e7757684beec953d21a155c"
   },
   {
     "type": "replace",
